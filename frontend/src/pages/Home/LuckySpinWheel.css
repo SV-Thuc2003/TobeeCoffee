@@ -1,0 +1,13 @@
+.wheel {
+  position: relative;
+  background: conic-gradient(
+    #fef08a 0% 12.5%,
+    #fca5a5 12.5% 25%,
+    #bbf7d0 25% 37.5%,
+    #fbcfe8 37.5% 50%,
+    #a5b4fc 50% 62.5%,
+    #fdba74 62.5% 75%,
+    #86efac 75% 87.5%,
+    #fcd34d 87.5% 100%
+  );
+}

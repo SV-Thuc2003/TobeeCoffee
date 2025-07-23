@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "cart": "Giỏ hàng",
+    "login": "Đăng nhập",
+    "promotions": "Ưu đãi",
+    "store": "Thông tin cửa hàng",
+    "about": "Về Tobee"
+  },
+
+  "login": {
+    "title": "Đăng nhập",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "submit": "Đăng nhập",
+    "no_account": "Bạn chưa có tài khoản?",
+    "register": "Đăng ký",
+    "or": "hoặc",
+    "email_required": "Vui lòng nhập email",
+    "invalid_email": "Email không hợp lệ",
+    "password_required": "Vui lòng nhập mật khẩu",
+    "continue_with": "Tiếp tục với {{provider}}"
+  },
+
+  "register": {
+  "title": "Đăng ký",
+  "name": "Họ tên",
+  "email": "Email",
+  "password": "Mật khẩu",
+  "confirm_password": "Xác nhận mật khẩu",
+  "placeholder_name": "Nhập họ tên",
+  "placeholder_email": "Nhập email",
+  "placeholder_password": "Nhập mật khẩu",
+  "placeholder_confirm_password": "Nhập lại mật khẩu",
+  "already_have_account": "Đã có tài khoản?",
+  "login": "Đăng nhập",
+  "name_required": "Vui lòng nhập tên",
+  "email_required": "Vui lòng nhập email",
+  "email_invalid": "Email không hợp lệ",
+  "password_required": "Vui lòng nhập mật khẩu",
+  "password_min": "Tối thiểu 6 ký tự",
+  "confirm_required": "Xác nhận mật khẩu",
+  "confirm_mismatch": "Mật khẩu xác nhận không khớp"
+},
+
+"admin": {
+    "dashboard": "Bảng điều khiển",
+    "users": "Quản lý người dùng",
+    "products": "Quản lý sản phẩm",
+    "vouchers": "Quản lý voucher",
+    "admin": "Quản trị viên",
+    "language": "Ngôn ngữ"
+  },
+
+  "user": {
+  "title": "Danh sách người dùng",
+  "filter": {
+    "all": "Tất cả",
+    "active": "Đang hoạt động",
+    "deleted": "Đã xóa"
+  },
+  "table": {
+    "name": "Tên",
+    "email": "Email",
+    "role": "Vai trò",
+    "status": "Trạng thái",
+    "created": "Ngày tạo",
+    "actions": "Hành động",
+    "no_data": "Không có dữ liệu"
+  },
+  "status": {
+    "ACTIVE": "Đang hoạt động",
+    "INACTIVE": "Không hoạt động",
+    "DELETE": "Đã xóa"
+  },
+  "actions": {
+    "disable": "Vô hiệu hoá",
+    "enable": "Kích hoạt",
+    "delete": "Xoá",
+    "restore": "Khôi phục"
+  },
+  "confirm_delete": "Bạn có chắc muốn xoá người dùng này?",
+  "error_fetch": "Lỗi khi tải danh sách người dùng",
+  "error_toggle": "Lỗi khi cập nhật trạng thái",
+  "error_delete": "Lỗi khi xoá người dùng",
+  "error_restore": "Lỗi khi khôi phục người dùng"
+},
+
+"voucher": {
+  "title": "Quản lý Voucher",
+  "form": {
+    "new": "Tạo Voucher",
+    "edit": "Chỉnh sửa Voucher",
+    "code": "Mã",
+    "discountType": "Loại giảm",
+    "discountValue": "Giá trị",
+    "totalQuantity": "Tổng số lượng",
+    "expiresAt": "Ngày hết hạn",
+    "PERCENT": "Giảm theo phần trăm",
+    "FIXED": "Giảm cố định (VND)",
+    "active": "Hoạt động",
+    "submit": "Gửi",
+    "cancel": "Huỷ"
+  },
+  "actions": {
+    "create": "Tạo",
+    "update": "Cập nhật",
+    "delete": "Xoá"
+  },
+  "table": {
+    "empty": "Chưa có voucher nào"
+  },
+  "confirm_delete": "Bạn chắc chắn muốn xoá voucher này?",
+  "status": {
+    "ACTIVE": "Hoạt động",
+    "INACTIVE": "Không hoạt động"
+  },
+  "error": {
+    "fetch": "Không tải được voucher",
+    "submit": "Không lưu được voucher",
+    "delete": "Không xoá được voucher"
+  }
+}
+
+}
+
+
