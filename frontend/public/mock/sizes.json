@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "priceModifier": 0,
+    "translations": [
+      { "languageCode": "vi", "name": "Nhỏ" },
+      { "languageCode": "en", "name": "Small" }
+    ]
+  },
+  {
+    "id": 2,
+    "priceModifier": 10000,
+    "translations": [
+      { "languageCode": "vi", "name": "Lớn" },
+      { "languageCode": "en", "name": "Large" }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "price": 5000,
+    "translations": [
+      { "languageCode": "vi", "name": "Trân châu" },
+      { "languageCode": "en", "name": "Pearls" }
+    ]
+  },
+  {
+    "id": 2,
+    "price": 7000,
+    "translations": [
+      { "languageCode": "vi", "name": "Thạch" },
+      { "languageCode": "en", "name": "Jelly" }
+    ]
+  }
+]

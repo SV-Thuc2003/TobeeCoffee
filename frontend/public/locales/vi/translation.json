@@ -6,7 +6,9 @@
     "login": "Đăng nhập",
     "promotions": "Ưu đãi",
     "store": "Thông tin cửa hàng",
-    "about": "Về Tobee"
+    "about": "Về Tobee",
+    "profile":"Thông tin cá nhân",
+    "logout": "Đăng xuất"
   },
 
   "login": {
@@ -120,6 +122,41 @@
     "fetch": "Không tải được voucher",
     "submit": "Không lưu được voucher",
     "delete": "Không xoá được voucher"
+  }
+},
+
+"drink": {
+  "create_title": "Tạo Thức Uống Mới",
+  "manager_title": "Quản lý đồ uống",
+  "add_new": "Thêm đồ uống mới",
+  "cancel": "Hủy",
+  "name": "Tên",
+  "base_price": "Giá gốc",
+  "category": "Danh mục",
+  "available": "Hiển thị",
+  "unavailable": "Không hiển thị",
+  "restore": "Khôi phục",
+  "description": "Mô tả",
+  "image": "Hình ảnh",
+  "save": "Lưu",
+  "saving": "Đang lưu...",
+  "edit": "Sửa",
+  "delete": "Xóa",
+  "update":"Cập nhật",
+  "na": "Không có",
+  "actions": "Hành động",
+  "filter": {
+    "all": "Tất cả",
+    "available": "Có sẵn",
+    "unavailable": "Hết hàng"
+  },
+  "error": {
+    "name_required": "Vui lòng nhập tên",
+    "base_price_invalid": "Giá gốc phải lớn hơn 0",
+    "category_required": "Vui lòng chọn danh mục",
+    "upload_failed": "Tải ảnh hoặc tạo thức uống thất bại",
+    "fetch_failed": "Lấy danh sách đồ uống thất bại",
+    "create_failed": "Tạo đồ uống thất bại"
   }
 }
 

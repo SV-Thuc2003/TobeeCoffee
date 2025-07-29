@@ -7,7 +7,9 @@
     "login": "Login",
     "promotions": "Promotions",
     "store": "Store Info",
-    "about": "About Tobee"
+    "about": "About Tobee",
+    "profile":"profile",
+    "logout": "logout"
   },
 
   "login": {
@@ -121,6 +123,41 @@
     "fetch": "Failed to load vouchers",
     "submit": "Failed to submit voucher",
     "delete": "Failed to delete voucher"
+  }
+},
+
+"drink": {
+  "create_title": "Create New Drink",
+  "manager_title": "Drink Management",
+  "add_new": "Add New Drink",
+  "cancel": "Cancel",
+  "name": "Name",
+  "base_price": "Base Price",
+  "category": "Category",
+  "available": "Available",
+  "unavailable": "Unavailable",
+  "description": "Description",
+  "restore": "Restore",  
+  "image": "Image",
+  "save": "Save",
+  "saving": "Saving...",
+  "edit": "Edit",
+  "delete": "Delete",
+  "update":"Update",
+  "na": "N/A",
+  "actions": "Actions",
+  "filter": {
+    "all": "All",
+    "available": "Available",
+    "unavailable": "Unavailable"
+  },
+  "error": {
+    "name_required": "Name is required",
+    "base_price_invalid": "Base Price must be greater than 0",
+    "category_required": "Category is required",
+    "upload_failed": "Upload image or create drink failed",
+    "fetch_failed": "Failed to fetch drinks",
+      "create_failed": "Failed to create drink"
   }
 }
 

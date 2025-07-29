@@ -6,10 +6,10 @@ import OAuthSuccessPage from "../pages/auth/OAuthSuccessPage";
 import AdminDashboard from "../pages/admin/Dashboard";
 import UserListPage from "../pages/admin/UserListPage";
 import AdminVoucherList from "../pages/admin/AdminVoucherList";
+import DrinkManager from "../pages/admin/DrinkManager";
 
 import HomePage from "../pages/Home/HomePage";
-
-// import ProductListPage from "../pages/ProductList/ProductListPage";
+import ProductListPage from "../pages/products/ProductListPage";
 // import CartPage from "../pages/Cart/CartPage";
 // import LoginPage from "../pages/Auth/LoginPage";
 
@@ -21,6 +21,7 @@ const AppRoutes = () => {
         <Route path="/login" element={<LoginPage />} />
         <Route path="/register" element={<RegisterPage />} />
         <Route path="/oauth-success" element={<OAuthSuccessPage />} />
+        <Route path="/products" element={<ProductListPage />} />
         {/* <Route path="/" element={<HomePage />} />
         <Route path="/products" element={<ProductListPage />} />
         <Route path="/cart" element={<CartPage />} />
@@ -31,6 +32,7 @@ const AppRoutes = () => {
       <Route path="/admin" element={<AdminDashboard />}>
         <Route path="users" element={<UserListPage />} />
         <Route path="vouchers" element={<AdminVoucherList />} />
+        <Route path="products" element={<DrinkManager />} />
       </Route>
     </Routes>
   );
